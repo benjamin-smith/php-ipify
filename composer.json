@@ -1,0 +1,28 @@
+{
+    "name": "benjaminsmith/php-ipify",
+    "description": "PHP client library for ipify: A Simple IP Address API.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Benjamin Smith",
+            "email": "ben@benjaminsmith.com"
+        }
+    ],
+    "keywords": [
+        "ipify"
+    ],
+    "homepage": "https://github.com/benjamin-smith/php-ipify",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0",
+        "rmccue/requests": ">=1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.7.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ipify\\": "src"
+        }
+    }
+}
