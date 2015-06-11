@@ -1,5 +1,7 @@
 # php-ipify
 
+[![Build Status](https://img.shields.io/travis/benjamin-smith/php-ipify/master.svg?style=flat-square)](https://travis-ci.org/benjamin-smith/php-ipify)
+
 This library will retrieve your public IP address from [ipify's API service](https://www.ipify.org/), and return it as a string.
 
 This library also has some other nice features you might care about:
