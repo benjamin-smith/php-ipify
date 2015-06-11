@@ -1,5 +1,5 @@
 {
-    "name": "benjaminsmith/php-ipify",
+    "name": "benjamin-smith/php-ipify",
     "description": "PHP client library for ipify: A Simple IP Address API.",
     "license": "MIT",
     "authors": [
