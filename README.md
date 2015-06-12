@@ -2,7 +2,7 @@
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/benjamin-smith/php-ipify/master.svg?style=flat-square)](https://travis-ci.org/benjamin-smith/php-ipify)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/benjamin-smith/php-ipify/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/benjamin-smith/php-ipify/?branch=master)
+[![Quality Score](https://img.shields.io/scrutinizer/g/benjamin-smith/php-ipify.svg?style=flat-square)](https://scrutinizer-ci.com/g/benjamin-smith/php-ipify)
 [![Total Downloads](https://img.shields.io/packagist/dt/benjamin-smith/php-ipify.svg?style=flat-square)](https://packagist.org/packages/benjamin-smith/php-ipify)
 
 This library will retrieve your public IP address from [ipify's API service](https://www.ipify.org/), and return it as a string.
