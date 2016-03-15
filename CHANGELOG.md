@@ -2,6 +2,11 @@
 
 All Notable changes to php-ipify will be documented in this file
 
+## 1.0.0 - 2016-03-14
+
+### Added
+- Nothing, but bumping existing codebase to stable version.
+
 ## 0.1.1 - 2015-06-11
 
 ### Added
