@@ -19,7 +19,7 @@ class Ip {
                 This is most likely due to a networking error of some sort.");
         }
 
-        if ($response->status_code!==200) {
+        if ($response->status_code !== 200) {
             throw new ServiceError('Received an invalid status code from ipify:' + (string) $response->status_code +
                 '. The service might be experiencing issues.');
         }
