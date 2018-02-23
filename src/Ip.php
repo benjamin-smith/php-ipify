@@ -20,7 +20,7 @@ class Ip {
         }
 
         if ($response->status_code !== 200) {
-            throw new ServiceError('Received an invalid status code from ipify:' + (string) $response->status_code +
+            throw new ServiceError('Received an invalid status code from ipify:' . (string) $response->status_code .
                 '. The service might be experiencing issues.');
         }
 
