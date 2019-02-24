@@ -4,8 +4,9 @@ namespace Ipify\Test;
 
 use Ipify\Ip;
 use Ipify\Settings;
+use PHPUnit\Framework\TestCase;
 
-class IpTest extends \PHPUnit_Framework_TestCase
+class IpTest extends TestCase
 {
 
     public function testReturnsIpAddressString()
